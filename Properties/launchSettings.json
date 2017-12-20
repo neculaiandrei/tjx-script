@@ -2,7 +2,7 @@
   "profiles": {
     "txj-script": {
       "commandName": "Project",
-      "commandLineArgs": "\"C:\\Users\\a.neculai\\Desktop\\txj-script\\modified encore\\61001999.json\""
+      "commandLineArgs": ""
     }
   }
 }
